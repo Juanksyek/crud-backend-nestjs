@@ -1,6 +1,6 @@
 # CRUD con Nestjs, Angular y JWT
 
-##Instrucciones de uso y notas
+## Instrucciones de uso y notas
 
 ## Desarrollo
 - Para el desarrollo de backend untilicé TypeScript y variables de entorno, así como Nestjs.
